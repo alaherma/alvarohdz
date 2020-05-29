@@ -1,4 +1,4 @@
----
+<!---
 title: Generic Page
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 background_style: style5
@@ -7,7 +7,7 @@ menus:
     title: Generic
     weight: 2
 layout: page
----
+--->
 
 ### Lorem ipsum dolor
 
