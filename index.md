@@ -1,14 +1,20 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Zentli
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    A Holistic Ecovillage Living in Community
   actions:
-    - label: Activate
-      url: /generic
+    - label: Volunteer Now
+      url: /volunteer-oportunities
+      is_scrolly: false
+      is_primary: true
+    - label: Join a workshop
+      url: /workshops
+      is_scrolly: false
+      is_primary: true
+    - label: Live with us
+      url: /becoming-a-resident
       is_scrolly: false
       is_primary: true
   bottom_link:
