@@ -82,11 +82,11 @@ sections:
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         icon: fa-leaf 
-      - title: Ac Augue Eget
+      - title: Agriculture
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-laptop
+        icon: fa-pagelines
       - title: Websites 
         text: >-
           Learn how to create 100% free websites, zentli.tk works like this, leverage your projects or bussinesess without paying for hosting nor domain name. 
@@ -96,16 +96,16 @@ sections:
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         icon: fa-home
-      - title: Aenean Primis
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-heart-o
       - title: Apiculture
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         icon: fa-forumbee
+        # - title: Aenean Primis
+        # text: >-
+        #   Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+        #   tincidunt nullam amet leo Aenean ligula consequat consequat.
+        # icon: fa-heart-o
     type: features
     component: features.html
   - title: Arcue ut vel commodo
@@ -125,9 +125,9 @@ sections:
         is_scrolly: false
     type: cta
     component: cta.html
-menus:
-  main:
-    title: Home
-    weight: 1
+# menus:
+#   main:
+#     title: Home
+#     weight: 1
 layout: home
 ---

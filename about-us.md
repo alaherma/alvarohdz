@@ -4,7 +4,7 @@ subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 background_style: style5
 menus:
   main:
-    title: -What is Zentli?
+    title: What is Zentli?
     weight: 1
 layout: page
 ---
