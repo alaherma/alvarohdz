@@ -1,13 +1,14 @@
 ---
 title: mision, vision & values
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+subtitle: this is what we stand for
 background_style: style5
 menus:
   main:
-    title: mision, vision & values
-    weight: 2
+    title: -mision, vision & values
+    weight: 3
 layout: page
 ---
+## Our Porpouse
 
 ### Mision
 

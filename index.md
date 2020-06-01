@@ -51,67 +51,61 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          Magna primis lobortis
-          sed ullamcorper
+          Our Lands
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Zentli is located in the  Cuatrociénegas Municipality , state of Coahuila in the nort of Mexico 
         home_img_path: images/pic01.jpg
       - title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Our Team
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic02.jpg
       - title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          Our way of living
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic03.jpg
     type: spotlights
     component: spotlights.html
-  - title: Accumsan mus tortor nunc aliquet
+  - title: Next workshops
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
+      live our very practical and hands on learning experiences with the guidence of our teachers 
+      and the space and tools to inmediatelly apply your knowledge
 
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
     section_id: three
     background_style: style3
     features:
-      - title: Arcu accumsan
+      - title: Permaculture
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-paper-plane-o
-      - title: Ac Augue Eget
+        icon: fa-leaf 
+      - title: Agriculture
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-laptop
-      - title: Mus Scelerisque
+        icon: fa-pagelines
+      - title: Websites 
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Learn how to create 100% free websites, zentli.tk works like this, leverage your projects or bussinesess without paying for hosting nor domain name. 
         icon: fa-code
-      - title: Mauris Imperdiet
+      - title: Bioconstruction
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-headphones
-      - title: Aenean Primis
+        icon: fa-home
+      - title: Apiculture
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-heart-o
-      - title: Tortor Ut
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-flag-o
+        icon: fa-forumbee
+        # - title: Aenean Primis
+        # text: >-
+        #   Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
+        #   tincidunt nullam amet leo Aenean ligula consequat consequat.
+        # icon: fa-heart-o
     type: features
     component: features.html
   - title: Arcue ut vel commodo
@@ -131,9 +125,9 @@ sections:
         is_scrolly: false
     type: cta
     component: cta.html
-menus:
-  main:
-    title: Home
-    weight: 1
+# menus:
+#   main:
+#     title: Home
+#     weight: 1
 layout: home
 ---
