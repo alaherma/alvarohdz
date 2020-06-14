@@ -53,26 +53,25 @@ sections:
       - title: |-
           Our Lands
         text: >-
-          Zentli is located in the  Cuatrociénegas Municipality , state of Coahuila in the nort of Mexico 
-        home_img_path: images/pic01.jpg
+          Zentli is located in Cuatrociénegas Municipality , state of Coahuila in the nort of Mexico 
+        home_img_path: images/zentli-granja-abuelo-entrada.jpg
       - title: |-
           Our Team
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        home_img_path: images/pic02.jpg
+        home_img_path: images/limpiando-la-zona-del-tipi.jpg
       - title: |-
           Our way of living
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        home_img_path: images/pic03.jpg
+        home_img_path: images/abuela-en-arboleda.jpg
     type: spotlights
     component: spotlights.html
   - title: Next workshops
     subtitle: >-
-      live our very practical and hands on learning experiences with the guidence of our teachers 
-      and the space and tools to inmediatelly apply your knowledge
+      live our very practical and hands on learning experiences with the guidence of our teachers while enjoying the space and tools to inmediatelly apply your knowledge
 
     section_id: three
     background_style: style3

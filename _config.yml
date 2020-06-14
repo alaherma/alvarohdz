@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 landing_template: home
-palette: blue
+palette: zentli
 palettes:
   blue:
     sass:
@@ -23,6 +23,14 @@ palettes:
       accent4: '#76ddff'
       accent5: '#505393'
       accent6: '#ed4933'
+  zentli:
+    sass:
+      accent1: '#49BF61'
+      accent2: '#CCFFAA'
+      accent3: '#FFCC3F'
+      accent4: '#76ddff'
+      accent5: '#098F5A'
+      accent6: '#EE81B4'
 sass:
   indentWidth: 4
   style: nested
