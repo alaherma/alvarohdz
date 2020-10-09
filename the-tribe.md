@@ -6,7 +6,7 @@ menus:
   main:
     title: the tribe
     weight: 2
-layout: meet-the-team
+layout: page
 ---
 
 ### Who we are and what we do
